@@ -1,5 +1,5 @@
 const project = () => {
-  return <div className="p-4">project page</div>;
+  return <div className="w-2 p-4">project page</div>;
 };
 
 export default project;
